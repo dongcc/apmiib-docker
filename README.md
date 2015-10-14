@@ -1,5 +1,6 @@
 # apmiib-docker
-IBM performance management IIB monitoring agent docker support
+Monitoring IBM Integration Bus in a Docker container
+
 # Overview
 
 By using the Dockerfile and scripts that are provided in this repository, you can use IBM Performance Management (http://www-03.ibm.com/software/products/en/application-performance-management) to monitor the IBM Integration Bus (http://www-03.ibm.com/software/products/en/ibm-integration-bus) that is running inside a Docker container. 
